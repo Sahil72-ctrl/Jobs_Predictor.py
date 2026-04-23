@@ -25,4 +25,13 @@ apt update && apt upgrade
 pkg install python
 pkg install git
 
+---
+
+## To Run This Project
+- git clone https://github.com/Sahil72-cl/Jobs_Predictor.git
+- cd Jobs_Predictor
+- python Jobs_Predictor.py
+
+---
+
 
