@@ -3,6 +3,7 @@
 This is a beginner-friendly Python project that predicts a user's future career using simple logic and random numbers.
 
 ---
+<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/f5e68454-ddb4-4ecd-aa49-62455bd57fb6" />
 
 ## 🚀 Features
 - Interactive user input  
